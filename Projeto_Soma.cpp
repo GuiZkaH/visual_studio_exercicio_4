@@ -5,13 +5,13 @@ int main()
 {
 	int num1;
 	int num2;
-	int soma;
+	int subtracao;
 
     cout << "Primeiro numero: ";
 	cin >> num1;
 	cout << "Segundo numero: ";
 	cin >> num2;
-	soma = num1 + num2;
+	subtracao = num1 - num2;
 
-	cout << "A soma destes valores e de " << soma;
+	cout << "A subtracao destes valores e de " << subtracao;
 }
