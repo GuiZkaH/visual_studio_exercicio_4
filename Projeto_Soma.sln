@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Projeto_Soma", "Projeto_Soma.vcxproj", "{925C5129-35DA-4480-BC85-E1F71235C0FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F75F04A-58C8-46F2-8E2B-902F0618B6A9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Debug|x64.ActiveCfg = Debug|x64
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Debug|x64.Build.0 = Debug|x64
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Debug|x86.Build.0 = Debug|Win32
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Release|x64.ActiveCfg = Release|x64
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Release|x64.Build.0 = Release|x64
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Release|x86.ActiveCfg = Release|Win32
+		{925C5129-35DA-4480-BC85-E1F71235C0FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF7D508-6911-4783-8324-9542F45E68F5}
+	EndGlobalSection
+EndGlobal
