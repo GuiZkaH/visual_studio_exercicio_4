@@ -5,3 +5,5 @@
 18/03/2020 - Convidei o Fally para o meu projeto
 
 18/03/2020 - Criei o issue e o fork
+
+18/03/2020 - Comentei o issue
